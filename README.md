@@ -30,4 +30,5 @@ Interactive Slicers
 Files
 Dashboard.xlsx
 Dataset.xlsx
-HSBC_Report.pdf
+HSBC_Report.pdf     <img width="1866" height="722" alt="image" src="https://github.com/user-attachments/assets/d5b82b4e-f681-4875-bbef-152b573dfc8c" />
+
